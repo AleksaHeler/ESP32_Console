@@ -1,1 +1,11 @@
-python img_to_src.py -f RGB333 -o sprites.c images/mossy.png
+python img_to_src.py -f RGB333 -o sprites1.c pics/barrel.png
+python img_to_src.py -f RGB333 -o sprites2.c pics/bluestone.png
+python img_to_src.py -f RGB333 -o sprites3.c pics/colorstone.png
+python img_to_src.py -f RGB333 -o sprites4.c pics/eagle.png
+python img_to_src.py -f RGB333 -o sprites5.c pics/greenlight.png
+python img_to_src.py -f RGB333 -o sprites6.c pics/greystone.png
+python img_to_src.py -f RGB333 -o sprites7.c pics/mossy.png
+python img_to_src.py -f RGB333 -o sprites8.c pics/pillar.png
+python img_to_src.py -f RGB333 -o sprites9.c pics/purplestone.png
+python img_to_src.py -f RGB333 -o sprites10.c pics/redbrick.png
+python img_to_src.py -f RGB333 -o sprites11.c pics/wood.png
